@@ -1,4 +1,4 @@
-# Let's understand our complete tic tac toe project step by step:
+# Let's understand our compelete tic tac toe project step by step:
 
 1. Firstly we need access of our all cells, where we want to play game
 2. So, we will use query selector which give us access of board.
